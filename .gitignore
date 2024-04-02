@@ -20,6 +20,7 @@ parts/
 sdist/
 var/
 wheels/
+pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -151,6 +152,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# SSH_Key
+./ssh_key
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
