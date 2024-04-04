@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe API project with Django and Docker. try this, this asdfc
+Recipe API project with Django and Docker. try this, this asdfcc
