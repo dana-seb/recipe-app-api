@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe API project with Django and Docker. push
+Recipe API project with Django and Docker. try this
